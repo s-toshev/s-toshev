@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @s-toshev
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning JAVA OOP & Automation with WebDriver
+- 🌱 I’m currently learning C# BackEnd & FrontEnd Automation
